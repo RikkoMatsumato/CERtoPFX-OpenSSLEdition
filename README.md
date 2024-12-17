@@ -1,2 +1,5 @@
 # CERtoPFX-OpenSSLEdition
-CERtoPFX-OpenSSLEdition by RiritoNinigaya(Batch Script for Convert Certificate to PFX and resetting password)
+> [!NOTE]
+> **Pls Make Sure What OpenSSL in you're System Environment!!! Thanks!!!**
+
+This is Very Simple Convert .cer to .pfx... So Enjoy to use this(Fork from RiritoNinigaya... and this is BatchScript for Windows 10 or Windows 11)
